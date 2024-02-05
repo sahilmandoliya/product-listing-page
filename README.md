@@ -1,1 +1,1 @@
-Simple Product listing page with cart in React
+Product Listing page with Cart in react
