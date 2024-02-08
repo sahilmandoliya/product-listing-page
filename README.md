@@ -1,1 +1,1 @@
-Product Listing page with Filters & Cart in react
+Product Listing page in React.js with filters and card
